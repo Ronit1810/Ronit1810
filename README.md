@@ -6,7 +6,7 @@ Currently an Computer Science and Engineering major student with a passion for d
 <img align="right" alt="image" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 * 🌍  I'm based in Maharashtra, India
-* 🖥️  See my portfolio at [MyPortfolio](http://ronitpatel.in)
+* 🖥️  See my portfolio at [ronitpatel.in](http://ronitpatel.in)
 * ✉️  You can contact me at [ronitpatel1810@gmail.com](mailto:ronitpatel1810@gmail.com)
 * 🧠  I'm learning NextJs and TypeScript
 * 🤝  I'm open to collaborating on interesting Projects
