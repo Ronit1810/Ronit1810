@@ -1,19 +1,38 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RONIT B PATEL
-=====================================================================================================================================
+# Hello 👋, I'm Ronit Babubhai Patel
+### Associate Software Engineer at Accenture
 
-Currently an Computer Science and Engineering major student with a passion for developing scalable web-applications and focused on full stack development.I am an enthusiastic and motivated team player with great imagination and excellent organizational skills.
+Associate Software Engineer at Accenture with a passion for tackling challenging projects that inspire creativity and innovation. Currently expanding my expertise in Data Engineering, Azure, Databricks, and modern data platforms while continuously enhancing my problem-solving skills.
 
-<img align="right" alt="image" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+I love transforming complex challenges into efficient solutions. Passionate about data engineering, cloud technologies, and continuous learning to build impactful and scalable systems.
 
-* 🌍  I'm based in Maharashtra, India
-* 🖥️  See my portfolio at [ronitpatel.in](http://ronitpatel.in)
-* ✉️  You can contact me at [ronitpatel1810@gmail.com](mailto:ronitpatel1810@gmail.com)
-* 🧠  I'm learning NextJs and TypeScript
-* 🤝  I'm open to collaborating on interesting Projects
+## Contact Me
+<p><a href="https://www.linkedin.com/in/ronit-patel-a023901a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.ronitpatel.in/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/1810_ronitpatel?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-### Skills
-
+## Skills
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/databricks.svg" alt="databricks" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-data-factory.svg" alt="azure data factory" width="40" height="40"/>&nbsp;
+<img src="https://favicons.statusgator.com/3xnQHpAWMRDVb0E6.png" alt="azure fabric" width="40" height="40"/>&nbsp;
+<img src="https://tse4.mm.bing.net/th/id/OIP.KXTj1Tkh3WTlK3LB0S5X9AHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="spark" width="40" height="40"/>&nbsp;
 </p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ronit1810&show_icons=true&count_private=true&theme=default" alt="GitHub Statistics" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit1810&theme=default" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/Ronit1810/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ronit1810" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronit1810&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
