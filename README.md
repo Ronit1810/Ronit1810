@@ -16,8 +16,10 @@ I love transforming complex challenges into efficient solutions. Passionate abou
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/databricks.svg" alt="databricks" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-data-factory.svg" alt="azure data factory" width="40" height="40"/>&nbsp;
-<img src="https://favicons.statusgator.com/3xnQHpAWMRDVb0E6.png" alt="azure fabric" width="40" height="40"/>&nbsp;
+<img src="https://iconvault.app/icons/Fabric%20Core/Fabric.svg" alt="azure fabric" width="40" height="40"/>&nbsp;
 <img src="https://tse4.mm.bing.net/th/id/OIP.KXTj1Tkh3WTlK3LB0S5X9AHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="spark" width="40" height="40"/>&nbsp;
+<img src="https://iconvault.app/icons/Fabric%20Core/Data%20Factory.svg" alt="Data Factory" width="40" height="40"/>&nbsp;
+  <img src="https://iconvault.app/icons/Azure%20Core/Azure%20Synapse%20Analytics.svg" alt="Azure Synapse" width="40" height="40"/>&nbsp;
 </p>
 
 ## GitHub Stats
